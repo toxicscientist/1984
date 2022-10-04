@@ -1,0 +1,15 @@
+{
+  "name": "1984",
+  "version": "1.0.0",
+  "description": "Literally 1984(Censorship module)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nerdopedia",
+  "license": "GPL-3.0-or-later",
+  "repository": {
+    "type": "git",
+    "url": "j"
+  }
+}
