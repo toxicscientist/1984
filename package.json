@@ -7,9 +7,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "nerdopedia",
-  "license": "GPL-3.0-or-later",
-  "repository": {
-    "type": "git",
-    "url": "j"
-  }
+  "license": "GPL-3.0-or-later"
 }
