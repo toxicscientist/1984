@@ -1,0 +1,14 @@
+{
+  "name": "@nerdodev/1984",
+  "version": "1.0.0",
+  "description": "Literally 1984(Censorship module)",
+  "author": "nerdopedia",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "@types/node": "^18.8.3"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
